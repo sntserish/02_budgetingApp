@@ -1,4 +1,4 @@
-package es.projects.__budgetingApp;
+package es.projects.budgetingApp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
